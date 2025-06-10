@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Toy Fun World</title>
+  <link href="https://fonts.googleapis.com/css?family=Fredoka+One&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+
+  <!-- Animated canvas for Home -->
+  <canvas id="toy-bg"></canvas>
+
+  <nav class="navbar">
+    <a href="#home">Home</a>
+    <a href="#toys">Toys</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <!-- Home with animated background -->
+  <section id="home" class="section hero">
+    <h1>🎉 Toy Fun World</h1>
+    <p>Where Play Begins</p>
+    <div class="scroll-indicator">↓</div>
+  </section>
+
+  <!-- Toys with themed background image -->
+  <section id="toys" class="section toys">
+    <h2>Our Toys</h2>
+    <div class="carousel">
+      <div class="toy-card"><img
+          src="https://imgs.search.brave.com/BpHDii5IIIX2S_3iFzi9dCiwj55e3fDtYttrVjJnaTY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzE0MjY0NTc2L3Iv/aWwvMDkzZDllLzIy/NTcxNDMxNjIvaWxf/NjAweDYwMC4yMjU3/MTQzMTYyX2I5d2wu/anBn"
+          alt="Car">
+        <p>Racing Car</p>
+      </div>
+      <div class="toy-card"><img src="https://imgs.search.brave.com/ruRsOX8huf8qxalBCGCfnRxKpk16NmpFV1YJj2mM35o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly92ZXJt/b250dGVkZHliZWFy/LmNvbS9jZG4vc2hv/cC9maWxlcy92dGIt/MjM4NDYtMThvaHNv/c29mdHRlZGR5YmVh/ci1saWdodGJyb3du/X2ZlYXR1cmU0XzIw/MjAxMDEyXzA4NDMu/anBnP3Y9MTcxNDM5/NTQ0MiZ3aWR0aD01/MzM" alt="Bear">
+        <p>Soft Bear</p>
+      </div>
+      <div class="toy-card"><img src="https://imgs.search.brave.com/KukjP5mPeIh83qe2oPly-DF6N1jxENsW7u0SvhYCZFI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzI4MjcwOTY5L2Mv/MTIwMC8xMjAwLzAv/MTY4L2lsLzAyYWZi/Ni8zNTAzMzk4Mzc3/L2lsXzYwMHg2MDAu/MzUwMzM5ODM3N180/MzFkLmpwZw" alt="Rocket">
+        <p>Space Rocket</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact with background image -->
+  <section id="contact" class="section contact">
+    <h2>Contact Us</h2>
+    <form class="contact-form">
+      <label>Name: <input type="text" name="name" required></label>
+      <label>Email: <input type="email" name="email" required></label>
+      <label>Message:<br><textarea name="message" rows="4" required></textarea></label>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+  <footer class="footer">
+    <p>© 2025 Toy Fun World. All Rights Reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
