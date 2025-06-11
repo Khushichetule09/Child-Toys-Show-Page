@@ -39,9 +39,6 @@ Easily change brand colors or font styles in styles.css to match your theme.
 Background Animation
 Tweak toy count, size, or speed in script.js for more playful effects.
 
-Add New Toys
-Drop in additional <div class="toy-card"> elements in index.html and update the images/info.
-
 ---
 
 📬 Contributing
