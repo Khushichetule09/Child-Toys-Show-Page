@@ -47,10 +47,6 @@ We ❤️ contributions! Feel free to:
 
 Open issues with enhancement ideas
 
-Submit PRs for new toy cards, animations, or features
-
-Add playful 🎯 tests or accessibility improvements
-
 ---
 
 🚀 Let’s Bring the Joy!
