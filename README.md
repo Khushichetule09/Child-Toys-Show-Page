@@ -50,7 +50,7 @@ Open issues with enhancement ideas
 ---
 
 🚀 Let’s Bring the Joy!
-Thank you for exploring Toy Fun World! Together, we’re creating a joyful corner of the web—one toy at a time. 🧸✨
+Thank you for exploring Toy Fun World! Together, we’re creating a joyful corner of the web—one toy at a time🧸✨
 
 
    
