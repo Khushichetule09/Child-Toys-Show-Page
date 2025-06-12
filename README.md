@@ -1,6 +1,6 @@
 # 🎉 Toy Fun World
 
-Welcome to **Toy Fun World**, where play never stops! This README will guide you through setting up and elevating your kid‑friendly toy showcase website.
+Welcome to **Toy Fun World**, where play never stops! This README will guide you through setting up and elevating your kid‑friendly toy showcase website!!
 
 ---
 
